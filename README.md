@@ -1,10 +1,9 @@
-# Buenas, me presento soy DRAIK.<iframe src="https://giphy.com/embed/MaI6BylfjAkDkfk4OC" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/blackrocketco-computer-working-developer-MaI6BylfjAkDkfk4OC">via GIPHY</a></p>
+# Buenas, me presento soy DRAIK.
 
 
-- :telescope: Actualmente me encuentro trabajando en mi portfolio y <a href="https://electrumhosting.com">ElectrumHosting</a>
-- 🤖 Soy un autodidacta, tengo 14 años y llevo desde los 7 años con un teclado en los dedos ¡Me apasiona cada dia aprender algo nuevo!
-<!--- 🌐 Pagina Web y Portfolio: https://flathill70.es/-->	
-- 📭 Contacto: xNaVaRrOx#3986 o draikdev@gmail.com
+- :telescope: Actualmente me encuentro trabajando en FiveM para Spaincity y DaltLeaks</a>
+- Aprendí por mi cuenta, tengo 17 años y tengo la tecnología como entreternimiento ¡Me gusta más aprender que usar pero bueno!
+- Contacto: xNaVaRrOx#3986 o draikdev@gmail.com
 
 ## :rocket: Tecnologías
 ![FiveM](https://img.shields.io/badge/FIVEM-orange.svg?&style=for-the-badge&logo=lua&logoColor=white)
