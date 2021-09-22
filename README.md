@@ -3,7 +3,7 @@
 
 - Actualmente me encuentro trabajando en FiveM para Spaincity y DaltLeaks</a>
 - Aprendí por mi cuenta, tengo 17 años y tengo la tecnología como entreternimiento ¡Me gusta más aprender que usar pero bueno!
-- Contacto: xNaVaRrOx#3986 o draikdev@gmail.com
+- Contacto: ! Draik#3986 o draikdev@gmail.com
 
 ## :rocket: Tecnologías
 ![FiveM](https://img.shields.io/badge/FIVEM-orange.svg?&style=for-the-badge&logo=lua&logoColor=white)
