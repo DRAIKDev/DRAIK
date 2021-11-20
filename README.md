@@ -1,7 +1,7 @@
 # Buenas, me presento soy DRAIK.
 
 
-- Actualmente me encuentro trabajando en FiveM para Spaincity y DaltLeaks</a>
+- Actualmente me encuentro trabajando en FiveM </a>
 - Aprendí por mi cuenta, tengo 17 años y tengo la tecnología como entreternimiento ¡Me gusta más aprender que usar pero bueno!
 - Contacto: ! Draik#3986 o draikdev@gmail.com
 
