@@ -1,8 +1,8 @@
 # Buenas, me presento soy DRAIK.
 
 
-- Actualmente me encuentro trabajando en FiveM </a>
-- Aprendí por mi cuenta, tengo 17 años y tengo la tecnología como entreternimiento ¡Me gusta más aprender que usar pero bueno!
+- Actualmente desarrollo en FiveM </a>
+- Aprendí por mi cuenta, tengo 17 años.
 - Contacto: ! Draik#3986 o draikdev@gmail.com
 
 ## :rocket: Tecnologías
