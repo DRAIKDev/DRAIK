@@ -1,7 +1,7 @@
 # Buenas, me presento soy DRAIK.
 
 
-- Actualmente desarrollo en FiveM </a>
+- Actualmente desarrollo en discord.gg/spaincity </a>
 - Aprendí por mi cuenta, tengo 17 años.
 - Contacto: ! Draik#3986 o draikdev@gmail.com
 
