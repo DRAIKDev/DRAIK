@@ -2,7 +2,6 @@
 
 
 - Actualmente desarrollo en discord.gg/spaincity </a>
-- 18 años.
 - Contacto: ! Draik#3986 o draikdev@gmail.com
 
 ## :rocket: Tecnologías
