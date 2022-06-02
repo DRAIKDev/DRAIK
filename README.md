@@ -2,7 +2,7 @@
 
 
 - Actualmente desarrollo en discord.gg/spaincity </a>
-- Aprendí por mi cuenta, tengo 17 años.
+- 18 años.
 - Contacto: ! Draik#3986 o draikdev@gmail.com
 
 ## :rocket: Tecnologías
