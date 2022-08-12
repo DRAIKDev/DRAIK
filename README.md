@@ -1,7 +1,6 @@
 # Buenas, me presento soy DRAIK.
 
 
-- Actualmente desarrollo en discord.gg/spaincity </a>
 - Contacto: ! Draik#3986 o draikdev@gmail.com
 
 ## :rocket: Tecnologías
